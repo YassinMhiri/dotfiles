@@ -16,6 +16,11 @@ https://github.com/AngelJumbo/gruvbox-wallpapers
 collection of non-themed wallpapers:
 https://gitlab.com/dwt1/wallpapers
 
+# Font
+Overpass font: (easily obtainable through the AUR)
+
+https://overpassfont.org/
+
 # Apps/Notes
 Librewolf with Stylus and Font Finder extentions
 
